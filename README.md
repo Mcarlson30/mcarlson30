@@ -14,11 +14,13 @@
 
 <details>
   <summary>Github stats</summary>
-[![Marcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcarlson30&theme=tokyonight)](https://github.com/mcarlson30/github-readme-stats)
+  <img align="left" alt="Marc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mcarlson30s&show_icons=true&hide_border=true&theme=tokyonight" />
 </details>
 
-[![Marcs's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarlson30&theme=tokyonight)
-
+<details>
+  <summary>Languages Used</summary>
+  <img align="left" alt="Marc's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarlson30&theme=tokyonight" />
+</details>
 
 
 ### Connect
